@@ -21,6 +21,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
@@ -31,6 +32,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
@@ -47,6 +49,7 @@
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0263-ugly-number) |
@@ -92,4 +95,8 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0191-number-of-1-bits) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
