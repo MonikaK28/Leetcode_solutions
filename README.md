@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1929-concatenation-of-array](https://github.com/MonikaK28/Leetcode_solutions/tree/master/1929-concatenation-of-array) |
@@ -29,4 +30,8 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
