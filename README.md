@@ -41,6 +41,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0342-power-of-four) |
 ## Math
@@ -87,4 +88,8 @@
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/MonikaK28/Leetcode_solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
