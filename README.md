@@ -13,6 +13,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0258-add-digits) |
 | [1929-concatenation-of-array](https://github.com/MonikaK28/Leetcode_solutions/tree/master/1929-concatenation-of-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/MonikaK28/Leetcode_solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 ## Hash Table
@@ -41,10 +42,15 @@
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0258-add-digits) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/MonikaK28/Leetcode_solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/MonikaK28/Leetcode_solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/MonikaK28/Leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
