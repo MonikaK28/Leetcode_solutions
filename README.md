@@ -40,6 +40,7 @@
 | ------- |
 | [0136-single-number](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0342-power-of-four) |
 ## Math
 |  |
 | ------- |
@@ -47,6 +48,7 @@
 | [0258-add-digits](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0342-power-of-four) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/MonikaK28/Leetcode_solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/MonikaK28/Leetcode_solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3099-harshad-number](https://github.com/MonikaK28/Leetcode_solutions/tree/master/3099-harshad-number) |
@@ -63,4 +65,5 @@
 | ------- |
 | [0231-power-of-two](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
