@@ -10,6 +10,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/MonikaK28/Leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/MonikaK28/Leetcode_solutions/tree/master/1672-richest-customer-wealth) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/MonikaK28/Leetcode_solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/MonikaK28/Leetcode_solutions/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MonikaK28/Leetcode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -122,4 +123,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/MonikaK28/Leetcode_solutions/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
