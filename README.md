@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0189-rotate-array) |
@@ -53,6 +54,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0283-move-zeroes) |
@@ -115,6 +117,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0509-fibonacci-number) |
 | [0918-maximum-sum-circular-subarray](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0918-maximum-sum-circular-subarray) |
@@ -178,4 +181,12 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0011-container-with-most-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
