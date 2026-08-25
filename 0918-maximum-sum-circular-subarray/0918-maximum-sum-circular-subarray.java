@@ -11,9 +11,7 @@ class Solution {
 
             total=total+nums[i];
         }
-        if(maxsum<0){
-            return maxsum;
-        }
+        if(maxsum<0)return maxsum;
         return Math.max(maxsum,total-minsum);
     }
 }
