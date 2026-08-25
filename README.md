@@ -14,6 +14,7 @@
 | [0287-find-the-duplicate-number](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0643-maximum-average-subarray-i](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0724-find-pivot-index) |
 | [0918-maximum-sum-circular-subarray](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/MonikaK28/Leetcode_solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -163,4 +164,8 @@
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0918-maximum-sum-circular-subarray) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
