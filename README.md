@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0189-rotate-array) |
@@ -51,6 +52,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0189-rotate-array](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0283-move-zeroes) |
@@ -172,4 +174,8 @@
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/MonikaK28/Leetcode_solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
