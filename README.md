@@ -15,6 +15,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0724-find-pivot-index](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0724-find-pivot-index) |
+| [0918-maximum-sum-circular-subarray](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/MonikaK28/Leetcode_solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/MonikaK28/Leetcode_solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1480-running-sum-of-1d-array](https://github.com/MonikaK28/Leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -110,6 +111,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0509-fibonacci-number) |
+| [0918-maximum-sum-circular-subarray](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1137-n-th-tribonacci-number](https://github.com/MonikaK28/Leetcode_solutions/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
 |  |
@@ -119,6 +121,7 @@
 ## Queue
 |  |
 | ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/MonikaK28/Leetcode_solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Divide and Conquer
 |  |
@@ -126,6 +129,7 @@
 | [0053-maximum-subarray](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0918-maximum-sum-circular-subarray](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -155,4 +159,8 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
