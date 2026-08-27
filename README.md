@@ -13,6 +13,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -41,6 +42,7 @@
 | [0001-two-sum](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/MonikaK28/Leetcode_solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Sorting
@@ -48,6 +50,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/MonikaK28/Leetcode_solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Two Pointers
@@ -70,6 +73,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -80,6 +84,7 @@
 | [0136-single-number](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0342-power-of-four) |
 ## Math
@@ -92,6 +97,7 @@
 | [0231-power-of-two](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0509-fibonacci-number) |
