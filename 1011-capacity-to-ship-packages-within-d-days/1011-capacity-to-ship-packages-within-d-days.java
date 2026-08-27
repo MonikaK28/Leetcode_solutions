@@ -1,6 +1,6 @@
 class Solution {
     public int shipWithinDays(int[] weights, int days) {
-        int left=0,right=0;
+        int left=0,right=0;// left is the heaviest package, right is the sum of all packages
         for(int w:weights){
             left=Math.max(left,w);
             right=right+w;
