@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -50,6 +51,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0268-missing-number) |
@@ -60,6 +62,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0189-rotate-array) |
@@ -220,4 +223,12 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0069-sqrtx) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
