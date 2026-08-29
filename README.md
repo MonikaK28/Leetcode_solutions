@@ -18,6 +18,7 @@
 | [0283-move-zeroes](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0456-132-pattern](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0456-132-pattern) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0724-find-pivot-index) |
@@ -85,6 +86,7 @@
 | [0268-missing-number](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0456-132-pattern](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0456-132-pattern) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/MonikaK28/Leetcode_solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -220,11 +222,13 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0234-palindrome-linked-list) |
+| [0456-132-pattern](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0456-132-pattern) |
 | [0739-daily-temperatures](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0042-trapping-rain-water) |
+| [0456-132-pattern](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0456-132-pattern) |
 | [0739-daily-temperatures](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0739-daily-temperatures) |
 ## String
 |  |
@@ -256,4 +260,8 @@
 | [0206-reverse-linked-list](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0237-delete-node-in-a-linked-list) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
