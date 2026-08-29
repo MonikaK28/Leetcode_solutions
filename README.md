@@ -221,6 +221,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 | [0456-132-pattern](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0456-132-pattern) |
@@ -268,6 +269,7 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 ## Breadth-First Search
@@ -277,10 +279,12 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
