@@ -289,6 +289,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
@@ -318,6 +319,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
@@ -336,6 +338,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0572-subtree-of-another-tree) |
 ## Binary Search Tree
 |  |
@@ -356,6 +359,7 @@
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0543-diameter-of-binary-tree](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
 ## String Matching
 |  |
 | ------- |
