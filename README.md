@@ -11,6 +11,7 @@
 | [0075-sort-colors](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0238-product-of-array-except-self) |
@@ -202,6 +203,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0200-number-of-islands) |
 | [1672-richest-customer-wealth](https://github.com/MonikaK28/Leetcode_solutions/tree/master/1672-richest-customer-wealth) |
 ## Pigeonhole Principle
 |  |
@@ -301,6 +303,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -336,6 +339,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -369,4 +373,8 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0572-subtree-of-another-tree) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
