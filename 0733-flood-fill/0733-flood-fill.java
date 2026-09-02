@@ -10,7 +10,7 @@ class Solution {
         private void dfs(int image[][],int i,int j,int oldcolor,int newcolor){
             int n=image.length;
             int m=image[0].length;
-        if(i<0||j<0||i>=image.length||j>=image[0].length)return;
+        if(i<0||j<0||i>=n||j>=m)return;
             if(image[i][j]!=oldcolor){
             return;
         }
