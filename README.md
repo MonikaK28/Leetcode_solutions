@@ -30,6 +30,7 @@
 | [0875-koko-eating-bananas](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0875-koko-eating-bananas) |
 | [0918-maximum-sum-circular-subarray](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/MonikaK28/Leetcode_solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1020-number-of-enclaves](https://github.com/MonikaK28/Leetcode_solutions/tree/master/1020-number-of-enclaves) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/MonikaK28/Leetcode_solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/MonikaK28/Leetcode_solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/MonikaK28/Leetcode_solutions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -210,6 +211,7 @@
 | [0463-island-perimeter](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/MonikaK28/Leetcode_solutions/tree/master/1020-number-of-enclaves) |
 | [1672-richest-customer-wealth](https://github.com/MonikaK28/Leetcode_solutions/tree/master/1672-richest-customer-wealth) |
 ## Pigeonhole Principle
 |  |
@@ -313,6 +315,7 @@
 | [0463-island-perimeter](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/MonikaK28/Leetcode_solutions/tree/master/1020-number-of-enclaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -357,6 +360,7 @@
 | [0572-subtree-of-another-tree](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0572-subtree-of-another-tree) |
 | [0695-max-area-of-island](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/MonikaK28/Leetcode_solutions/tree/master/1020-number-of-enclaves) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -390,4 +394,5 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0695-max-area-of-island) |
+| [1020-number-of-enclaves](https://github.com/MonikaK28/Leetcode_solutions/tree/master/1020-number-of-enclaves) |
 <!---LeetCode Topics End-->
