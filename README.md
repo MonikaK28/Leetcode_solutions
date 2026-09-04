@@ -42,6 +42,7 @@
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/MonikaK28/Leetcode_solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/MonikaK28/Leetcode_solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1480-running-sum-of-1d-array](https://github.com/MonikaK28/Leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/MonikaK28/Leetcode_solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1672-richest-customer-wealth](https://github.com/MonikaK28/Leetcode_solutions/tree/master/1672-richest-customer-wealth) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/MonikaK28/Leetcode_solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/MonikaK28/Leetcode_solutions/tree/master/1929-concatenation-of-array) |
@@ -72,6 +73,7 @@
 | [0268-missing-number](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/MonikaK28/Leetcode_solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/MonikaK28/Leetcode_solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 ## Two Pointers
 |  |
 | ------- |
@@ -134,6 +136,7 @@
 | [1137-n-th-tribonacci-number](https://github.com/MonikaK28/Leetcode_solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/MonikaK28/Leetcode_solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/MonikaK28/Leetcode_solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/MonikaK28/Leetcode_solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/MonikaK28/Leetcode_solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MonikaK28/Leetcode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/MonikaK28/Leetcode_solutions/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -248,6 +251,7 @@
 | [0055-jump-game](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0680-valid-palindrome-ii](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0680-valid-palindrome-ii) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/MonikaK28/Leetcode_solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 ## Stack
 |  |
 | ------- |
@@ -415,4 +419,8 @@
 | [0695-max-area-of-island](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/MonikaK28/Leetcode_solutions/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/MonikaK28/Leetcode_solutions/tree/master/1254-number-of-closed-islands) |
+## Game Theory
+|  |
+| ------- |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/MonikaK28/Leetcode_solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 <!---LeetCode Topics End-->
