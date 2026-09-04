@@ -184,6 +184,7 @@
 | [0518-coin-change-ii](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0518-coin-change-ii) |
 | [0918-maximum-sum-circular-subarray](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1137-n-th-tribonacci-number](https://github.com/MonikaK28/Leetcode_solutions/tree/master/1137-n-th-tribonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/MonikaK28/Leetcode_solutions/tree/master/1143-longest-common-subsequence) |
 ## Memoization
 |  |
 | ------- |
@@ -281,6 +282,7 @@
 | [0344-reverse-string](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0680-valid-palindrome-ii) |
+| [1143-longest-common-subsequence](https://github.com/MonikaK28/Leetcode_solutions/tree/master/1143-longest-common-subsequence) |
 ## Newton's Method
 |  |
 | ------- |
@@ -435,4 +437,8 @@
 |  |
 | ------- |
 | [0518-coin-change-ii](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0518-coin-change-ii) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/MonikaK28/Leetcode_solutions/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
