@@ -28,6 +28,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0456-132-pattern](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0456-132-pattern) |
 | [0463-island-perimeter](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0463-island-perimeter) |
+| [0518-coin-change-ii](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0695-max-area-of-island) |
@@ -180,6 +181,7 @@
 | [0198-house-robber](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0509-fibonacci-number) |
+| [0518-coin-change-ii](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0518-coin-change-ii) |
 | [0918-maximum-sum-circular-subarray](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1137-n-th-tribonacci-number](https://github.com/MonikaK28/Leetcode_solutions/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
@@ -425,4 +427,12 @@
 |  |
 | ------- |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/MonikaK28/Leetcode_solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0518-coin-change-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
