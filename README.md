@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0075-sort-colors) |
@@ -63,6 +64,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0202-happy-number) |
@@ -74,6 +76,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0217-contains-duplicate) |
@@ -287,6 +290,7 @@
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0139-word-break) |
