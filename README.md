@@ -67,6 +67,7 @@
 | [0141-linked-list-cycle](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/MonikaK28/Leetcode_solutions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -76,6 +77,7 @@
 | [0075-sort-colors](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/MonikaK28/Leetcode_solutions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -289,6 +291,7 @@
 | [0125-valid-palindrome](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0680-valid-palindrome-ii) |
