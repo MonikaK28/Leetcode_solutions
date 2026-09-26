@@ -15,6 +15,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0128-longest-consecutive-sequence](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0139-word-break) |
 | [0189-rotate-array](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0189-rotate-array) |
@@ -66,6 +67,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0202-happy-number) |
@@ -445,6 +447,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/MonikaK28/Leetcode_solutions/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/MonikaK28/Leetcode_solutions/tree/master/1020-number-of-enclaves) |
